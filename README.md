@@ -10,7 +10,10 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - `Data-Resampling-and-Splitting.ipynb`
 - `Random-Forest-Classifier.ipynb`
 - `XGBoost.ipynb`
-- `Mini_Project_Obesity.ipynb`: The completed Jupyter Notebook file 
+- `Mini_Project_Obesity.ipynb`: The completed Jupyter Notebook file
+### Contributors
+- @neyvivu - Vu Thao Nguyen: Data Preparation, Data Visualization, Data Resampling
+- Nguyen Tung Lam: Data Resampling, Random Forest Classifier, 
   
 ## Dataset
 The analysis utilizes data from the [Multi-Class Prediction of Obesity Risk Dataset](https://www.kaggle.com/competitions/playground-series-s4e2) available on Kaggle. This dataset includes comprehensive information about individuals' eating habits, physical activity, and other relevant health metrics.
