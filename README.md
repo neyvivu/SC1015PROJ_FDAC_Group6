@@ -12,7 +12,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - `XGBoost.ipynb`
 - `Mini_Project_Obesity.ipynb`: The completed Jupyter Notebook file
 ### Contributors
-- @neyvivu - Vu Thao Nguyen: Data Preparation (Data Cleaning & Data Extraction), Data Visualization
+- @neyvivu - Vu Thao Nguyen: Data Preparation (Data Cleaning), Đata Extraction, Data Visualization
 - @Lamnu1902 - Nguyen Tung Lam: Data Resampling, Random Forest Classifier, XGBoost
   
 ## Dataset
