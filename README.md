@@ -4,18 +4,18 @@
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) course which aims to explores the obesity risk among individuals by examining various health metrics and daily habits. Utilizing the Multi-Class Prediction of Obesity Risk Dataset, we apply machine learning techniques to predict and classify obesity levels, providing insights into the significant factors that contribute to obesity.
 ### Project Structure
 - `README.md`: Provides an overview of the project, dataset, and instructions for setup.
-- `data.csv`: Dataset file utilized for the analysis. Note: Due to the terms of use on Kaggle, please download the dataset directly from the provided link.
+- [Dataset](https://github.com/neyvivu/SC1015PROJ_FDAC_Group6/tree/main/Dataset): Dataset file utilized for the analysis, including the [original dataset](https://github.com/neyvivu/SC1015PROJ_FDAC_Group6/blob/main/Dataset/train.csv) and modified datasets served as resources for each step.
 - [Data Preparation](https://github.com/neyvivu/SC1015PROJ_FDAC_Group6/blob/main/Data-Preparation.ipynb) 
 - [Data Visualization](https://github.com/neyvivu/SC1015PROJ_FDAC_Group6/blob/main/Data-Visualization.ipynb)
 - [Data Resampling and Splitting](https://github.com/neyvivu/SC1015PROJ_FDAC_Group6/blob/main/Data-Resampling-and-Splitting.ipynb)
-- `Random-Forest-Classifier.ipynb`
-- `XGBoost.ipynb`
+- [Random Forest Classifier](https://github.com/neyvivu/SC1015PROJ_FDAC_Group6/blob/main/%20Random%20Forest%20Classifier.ipynb)
+- [XGBoost](https://github.com/neyvivu/SC1015PROJ_FDAC_Group6/blob/main/XGBoost.ipynb)
 ### Contributors
-- @neyvivu - Vu Thao Nguyen: Data Preparation (Data Cleaning), Data Extraction, Data Visualization
-- @Lamnu1902 - Nguyen Tung Lam: Data Resampling, Random Forest Classifier, XGBoost
+- [@neyvivu](https://github.com/neyvivu) - Vu Thao Nguyen: Data Preparation (Data Cleaning), Data Extraction, Data Visualization
+- [@Lamnu1902](https://github.com/Lamnu1902) - Nguyen Tung Lam: Data Resampling, Random Forest Classifier, XGBoost
   
 ## Dataset
-The analysis utilizes data from the [Multi-Class Prediction of Obesity Risk Dataset](https://www.kaggle.com/competitions/playground-series-s4e2) available on Kaggle. This dataset includes comprehensive information about individuals' eating habits, physical activity, and other relevant health metrics.
+The analysis utilizes data from the [Multi-Class Prediction of Obesity Risk Dataset](https://www.kaggle.com/competitions/playground-series-s4e2) available on Kaggle. This dataset includes comprehensive information about individuals' eating habits, physical activity, and other relevant health metrics. Note: Due to the terms of use on Kaggle, please download the original dataset directly from the provided link. 
 
 ## Problem Definition
 Our project seeks to answer the following questions:
@@ -54,3 +54,9 @@ pip install -r requirements.txt
 - **Statistical Metrics Mastery**: Deepened knowledge of critical evaluation metrics like accuracy, precision, recall, and F1 score, essential for assessing model performance in medical research.
 
 This project not only expanded our technical capabilities but also provided valuable insights into the factors influencing obesity, showcasing the potential of data science to inform public health strategies.
+
+### References
+- https://www.kaggle.com/competitions/playground-series-s4e2
+- https://www.youtube.com/watch?si=tCa5kLpL8RsDoH8C&v=v6VJ2RO66Ag&feature=youtu.be
+- https://www.youtube.com/watch?si=57QwNp3Z-iouAkbh&v=_QuGM_FW9eo&feature=youtu.be
+- https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/?fbclid=IwAR18V_OM_9wUbHpStqwc4kWk9M0xzal1li28NlW-FlAISRQXaFInds2-y58
