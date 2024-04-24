@@ -5,12 +5,11 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ### Project Structure
 - `README.md`: Provides an overview of the project, dataset, and instructions for setup.
 - `data.csv`: Dataset file utilized for the analysis. Note: Due to the terms of use on Kaggle, please download the dataset directly from the provided link.
-- `Data-Preparation.ipynb`
-- `Data-Visualization.ipynb`
+- [Data-Preparation](https://github.com/neyvivu/SC1015PROJ_FDAC_Group6/blob/main/Data-Preparation.ipynb) 
+- [Data-Visualization](https://github.com/neyvivu/SC1015PROJ_FDAC_Group6/blob/main/Data-Visualization.ipynb)
 - `Data-Resampling-and-Splitting.ipynb`
 - `Random-Forest-Classifier.ipynb`
 - `XGBoost.ipynb`
-- `Mini_Project_Obesity.ipynb`: The completed Jupyter Notebook file
 ### Contributors
 - @neyvivu - Vu Thao Nguyen: Data Preparation (Data Cleaning), Đata Extraction, Data Visualization
 - @Lamnu1902 - Nguyen Tung Lam: Data Resampling, Random Forest Classifier, XGBoost
