@@ -26,18 +26,6 @@ Our project seeks to answer the following questions:
 1. Random Forest Classifier
 2. XGBoost
 
-## Installation
-First, ensure you have Python installed on your system. Follow these steps to set up the project environment:
-
-```bash
-# Clone the repository
-git clone <repository-url>
-cd <repository-folder>
-
-# Install required Python packages
-pip install -r requirements.txt
-```
-
 ## Conclusion
 
 - **Predictive Variables**: Key variables such as dietary habits, physical activity levels, and routine health monitoring were found to have a significant impact on obesity risk. These findings emphasize the importance of lifestyle factors in predicting obesity.
