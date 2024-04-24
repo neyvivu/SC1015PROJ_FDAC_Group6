@@ -38,20 +38,6 @@ cd <repository-folder>
 pip install -r requirements.txt
 ```
 
-## Usage
-To execute the project analysis:
-
-1. Navigate to the project directory.
-2. Open Jupyter Notebook or Jupyter Lab:
-```bash
-jupyter notebook
-```
-or
-```bash
-jupyter lab
-```
-3. Run the Mini_Project_Obesity.ipynb notebook cells sequentially to reproduce the analysis and view the results.
-
 ## Conclusion
 
 - **Predictive Variables**: Key variables such as dietary habits, physical activity levels, and routine health monitoring were found to have a significant impact on obesity risk. These findings emphasize the importance of lifestyle factors in predicting obesity.
